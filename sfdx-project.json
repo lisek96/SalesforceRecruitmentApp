@@ -6,7 +6,6 @@
     }
   ],
   "name": "RWSolutions-RecruitmentApp",
-  "namespace": "RWSRA",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
 }
