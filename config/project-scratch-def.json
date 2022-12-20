@@ -1,0 +1,14 @@
+{
+  "orgName": "RW Solutions DEV Scratch-Org",
+  "sourceOrg": "00D7Q000002DQec",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
